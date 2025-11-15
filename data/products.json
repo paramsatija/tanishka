@@ -1,0 +1,309 @@
+[
+  {
+    "sku": "IA-ABS-001",
+    "slug": "abs-acrylonitrile-butadiene-styrene",
+    "name": "ABS (Acrylonitrile Butadiene Styrene)",
+    "summary": "Engineering thermoplastic with excellent impact resistance and temperature performance.",
+    "description": "ABS is a versatile engineering thermoplastic offering an excellent balance of mechanical properties, processability, and surface finish. With superior impact resistance even at low temperatures and good dimensional stability, ABS is ideal for demanding applications requiring durability and aesthetic appeal.",
+    "applications": [
+      "Automotive (interior trim, dashboards)",
+      "Electrical Appliances (housings, casings)",
+      "Toys (LEGO bricks, action figures)",
+      "Construction (pipe fittings, panels)"
+    ],
+    "specs": {
+      "melt_index": "varies by grade",
+      "impact_strength": "High",
+      "tensile_strength": "40-50 MPa",
+      "heat_deflection": "95-105°C"
+    },
+    "packaging": ["25kg bag", "1kg pouch", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/1181406/pexels-photo-1181406.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-HIPS-001",
+    "slug": "hips-high-impact-polystyrene",
+    "name": "HIPS (High Impact Polystyrene)",
+    "summary": "Stiff, impact-resistant material used for displays, trays, cosmetic packaging.",
+    "description": "HIPS combines the rigidity and processability of polystyrene with enhanced impact strength through rubber modification. It offers excellent thermoforming characteristics, making it ideal for packaging and display applications.",
+    "applications": [
+      "POS Displays",
+      "Food packaging trays",
+      "Cosmetic packaging",
+      "Refrigerator liners"
+    ],
+    "specs": {
+      "melt_index": "3-8 g/10min",
+      "impact_strength": "Medium to High",
+      "tensile_strength": "20-30 MPa"
+    },
+    "packaging": ["25kg bag", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/3735218/pexels-photo-3735218.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-GPPS-001",
+    "slug": "gpps-general-purpose-polystyrene",
+    "name": "GPPS (General Purpose Polystyrene)",
+    "summary": "Good mechanical & electrical properties; used for disposable cups, trays.",
+    "description": "GPPS is a transparent, rigid thermoplastic with excellent clarity and dimensional stability. Its ease of processing and good electrical insulation properties make it a popular choice for consumer goods.",
+    "applications": [
+      "Disposable cups and plates",
+      "Food container trays",
+      "CD/DVD cases",
+      "Office accessories"
+    ],
+    "specs": {
+      "melt_index": "5-15 g/10min",
+      "impact_strength": "Low",
+      "tensile_strength": "35-50 MPa",
+      "clarity": "Excellent"
+    },
+    "packaging": ["25kg bag"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/4226881/pexels-photo-4226881.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PC-001",
+    "slug": "pc-polycarbonate",
+    "name": "PC (Polycarbonate)",
+    "summary": "Transparent, high impact polymer used for lenses, medical devices, lighting.",
+    "description": "Polycarbonate is an exceptionally tough transparent thermoplastic with outstanding impact resistance and heat resistance. It combines optical clarity with mechanical strength for demanding applications.",
+    "applications": [
+      "Optical lenses and eyewear",
+      "Medical devices and equipment",
+      "LED lighting diffusers",
+      "Safety shields and glazing"
+    ],
+    "specs": {
+      "melt_index": "6-20 g/10min",
+      "impact_strength": "Very High",
+      "tensile_strength": "60-70 MPa",
+      "heat_deflection": "130-140°C"
+    },
+    "packaging": ["25kg bag", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/2219024/pexels-photo-2219024.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PBT-001",
+    "slug": "pbt-polybutylene-terephthalate",
+    "name": "PBT (Polybutylene Terephthalate)",
+    "summary": "Heat resistant engineering polymer for electrical/electronic use.",
+    "description": "PBT is a semi-crystalline engineering thermoplastic with excellent electrical properties, dimensional stability, and chemical resistance. It maintains performance across a wide temperature range.",
+    "applications": [
+      "Electrical connectors",
+      "Automotive sensors",
+      "Circuit breakers",
+      "Consumer electronics housings"
+    ],
+    "specs": {
+      "melt_index": "varies by grade",
+      "tensile_strength": "50-60 MPa",
+      "heat_deflection": "60-100°C",
+      "electrical": "Excellent insulation"
+    },
+    "packaging": ["25kg bag"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/163100/circuit-circuit-board-resistor-computer-163100.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-POM-001",
+    "slug": "pom-polyoxymethylene",
+    "name": "POM (Polyoxymethylene)",
+    "summary": "Precision engineering polymer with low friction for mechanical parts.",
+    "description": "POM, also known as acetal, offers exceptional dimensional stability, low friction, and excellent wear resistance. Its high stiffness and creep resistance make it ideal for precision mechanical components.",
+    "applications": [
+      "Gears and bearings",
+      "Conveyor belt parts",
+      "Automotive fuel systems",
+      "Precision mechanical parts"
+    ],
+    "specs": {
+      "melt_index": "2-20 g/10min",
+      "tensile_strength": "60-70 MPa",
+      "friction_coefficient": "Low",
+      "dimensional_stability": "Excellent"
+    },
+    "packaging": ["25kg bag"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/257736/pexels-photo-257736.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PA66-001",
+    "slug": "nylon-pa6-66",
+    "name": "Nylon (PA6/66)",
+    "summary": "Strong polymer for automotive & textile applications.",
+    "description": "Nylon polyamides offer outstanding toughness, wear resistance, and thermal stability. These engineering thermoplastics are known for their strength and fatigue resistance in demanding environments.",
+    "applications": [
+      "Automotive under-hood components",
+      "Textile fibers and fabrics",
+      "Cable ties and fasteners",
+      "Industrial machine parts"
+    ],
+    "specs": {
+      "melt_index": "varies by grade",
+      "tensile_strength": "70-85 MPa",
+      "heat_deflection": "70-90°C",
+      "abrasion_resistance": "Excellent"
+    },
+    "packaging": ["25kg bag", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/190574/pexels-photo-190574.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PMMA-001",
+    "slug": "pmma-acrylic",
+    "name": "PMMA (Acrylic)",
+    "summary": "Transparent & UV resistant (alternative to PC).",
+    "description": "PMMA (Polymethyl Methacrylate) is a transparent thermoplastic with excellent optical clarity and weather resistance. It offers glass-like transparency with lighter weight and better impact resistance.",
+    "applications": [
+      "Signage and displays",
+      "Automotive lighting lenses",
+      "Aquariums and skylights",
+      "Medical implants"
+    ],
+    "specs": {
+      "melt_index": "2-8 g/10min",
+      "tensile_strength": "60-75 MPa",
+      "light_transmission": "92%",
+      "uv_resistance": "Excellent"
+    },
+    "packaging": ["25kg bag"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/371917/pexels-photo-371917.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PPS-001",
+    "slug": "pps-polyphenylene-sulfide",
+    "name": "PPS (Polyphenylene Sulfide)",
+    "summary": "High temp & dimensional stability; electrical insulation.",
+    "description": "PPS is a high-performance engineering thermoplastic with exceptional thermal stability, chemical resistance, and dimensional precision. It maintains properties in extreme environments.",
+    "applications": [
+      "Automotive emission control",
+      "Electronic components",
+      "Industrial filtration",
+      "High-temperature electrical connectors"
+    ],
+    "specs": {
+      "tensile_strength": "65-85 MPa",
+      "heat_deflection": "260°C",
+      "chemical_resistance": "Outstanding",
+      "flame_rating": "UL94 V-0"
+    },
+    "packaging": ["25kg bag"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/1108101/pexels-photo-1108101.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-SAN-001",
+    "slug": "san-styrene-acrylonitrile",
+    "name": "SAN (Styrene Acrylonitrile)",
+    "summary": "Good gloss & heat resistance for kitchen/household components.",
+    "description": "SAN offers better chemical and heat resistance than standard polystyrene with improved rigidity and transparency. Its excellent surface gloss makes it ideal for aesthetic applications.",
+    "applications": [
+      "Kitchen appliances",
+      "Housewares and containers",
+      "Battery cases",
+      "Cosmetic packaging"
+    ],
+    "specs": {
+      "melt_index": "4-10 g/10min",
+      "tensile_strength": "65-80 MPa",
+      "heat_deflection": "95-105°C",
+      "transparency": "Good"
+    },
+    "packaging": ["25kg bag"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/4226263/pexels-photo-4226263.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PP-001",
+    "slug": "pp-polypropylene",
+    "name": "PP (Polypropylene)",
+    "summary": "Versatile commodity plastic for packaging & films.",
+    "description": "Polypropylene is one of the most versatile commodity plastics, offering excellent chemical resistance, fatigue resistance, and low density. Its balance of properties and cost makes it widely used.",
+    "applications": [
+      "Food packaging containers",
+      "Automotive interior parts",
+      "Textile fibers (non-woven fabrics)",
+      "Flexible and rigid packaging films"
+    ],
+    "specs": {
+      "melt_index": "2-35 g/10min",
+      "tensile_strength": "30-40 MPa",
+      "density": "0.90-0.91 g/cm³",
+      "chemical_resistance": "Excellent"
+    },
+    "packaging": ["25kg bag", "1kg pouch", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/3735161/pexels-photo-3735161.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-HDPE-001",
+    "slug": "hdpe-high-density-polyethylene",
+    "name": "HDPE (High-Density Polyethylene)",
+    "summary": "High tensile strength & recyclable; used in bottles, pipes.",
+    "description": "HDPE is a strong, rigid polymer with excellent chemical resistance and impact strength. It's highly recyclable and offers good barrier properties for a wide range of applications.",
+    "applications": [
+      "Milk jugs and beverage bottles",
+      "Pipes and conduits",
+      "Trash containers",
+      "Jerry cans and drums"
+    ],
+    "specs": {
+      "melt_index": "0.3-10 g/10min",
+      "tensile_strength": "20-30 MPa",
+      "density": "0.94-0.97 g/cm³",
+      "recyclability": "Excellent (#2)"
+    },
+    "packaging": ["25kg bag", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/3735171/pexels-photo-3735171.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-LLDPE-001",
+    "slug": "lldpe-linear-low-density-polyethylene",
+    "name": "LLDPE (Linear Low-Density Polyethylene)",
+    "summary": "Flexible packaging films, stretch wrap.",
+    "description": "LLDPE offers superior puncture resistance and tensile strength compared to conventional LDPE. Its linear structure provides excellent film properties for demanding packaging applications.",
+    "applications": [
+      "Stretch and shrink wrap films",
+      "Flexible packaging pouches",
+      "Agricultural films",
+      "Garbage bags"
+    ],
+    "specs": {
+      "melt_index": "0.5-20 g/10min",
+      "tensile_strength": "10-25 MPa",
+      "density": "0.91-0.94 g/cm³",
+      "puncture_resistance": "Excellent"
+    },
+    "packaging": ["25kg bag", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/4226878/pexels-photo-4226878.jpeg?auto=compress&cs=tinysrgb&w=800"
+  },
+  {
+    "sku": "IA-PVC-001",
+    "slug": "pvc-polyvinyl-chloride",
+    "name": "PVC (Polyvinyl Chloride)",
+    "summary": "Economical, chemical resistant polymer for pipes & flooring.",
+    "description": "PVC is a versatile, durable polymer available in both rigid and flexible forms. Its excellent chemical resistance, fire resistance, and cost-effectiveness make it widely used in construction and industrial applications.",
+    "applications": [
+      "Pipes and fittings",
+      "Window profiles and siding",
+      "Flooring and wall coverings",
+      "Cable insulation"
+    ],
+    "specs": {
+      "tensile_strength": "40-60 MPa",
+      "chemical_resistance": "Excellent",
+      "flame_resistance": "Self-extinguishing",
+      "durability": "50+ years"
+    },
+    "packaging": ["25kg bag", "Bulk container"],
+    "moq": "500 kg",
+    "image": "https://images.pexels.com/photos/159045/the-interior-of-the-repair-interior-design-159045.jpeg?auto=compress&cs=tinysrgb&w=800"
+  }
+]
